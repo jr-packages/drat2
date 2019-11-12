@@ -354,7 +354,7 @@ Imports: dplyr (>= 0.7.4), ggplot2, ggplot2movies, hrbrthemes,
         tidyverse, wordcloud
 Suggests: gridExtra, gutenbergr, knitr, lintr, rmarkdown, testthat
 License: GPL-2
-MD5sum: 4fb33dc11870d20253f0190edbe78d4c
+MD5sum: 77a665a43b411e34a3ea4806c7cfe4e6
 NeedsCompilation: no
 
 Package: jrTidyverse2
