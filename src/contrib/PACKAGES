@@ -299,7 +299,7 @@ Imports: clisymbols, config, crayon, digest, fs, glue, lintr, rmarkdown
         (>= 1.10), rsconnect (>= 0.8.11), stringr
 Suggests: countdown, knitr (>= 1.20), xaringan (>= 0.10)
 License: GPL-2 | GPL-3
-MD5sum: 45a6bf9d791fe4629024185075249436
+MD5sum: 0c6149a41f982c17db00ea201f6d69ef
 NeedsCompilation: no
 
 Package: jrSouth
