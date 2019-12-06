@@ -260,7 +260,7 @@ Depends: R (>= 3.2.0)
 Imports: dplyr, ggplot2, ggplot2movies, readr, tibble
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: 6e2d4568229949bec0e8f05304af7f14
+MD5sum: 0a01526f13e81cedf8b321115b77ba00
 NeedsCompilation: no
 
 Package: jrRssprogramming
