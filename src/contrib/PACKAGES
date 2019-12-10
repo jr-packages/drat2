@@ -329,7 +329,7 @@ Imports: dplyr, ggplot2, leaflet, raster, sf, tibble, tidyr, tmap
 Suggests: cartogram, cartography, DT, ggspatial, knitr, lintr,
         maptools, testthat, tufte, webshot
 License: GPL-2
-MD5sum: 0510c14572ea4758d66ded42a8a8aef6
+MD5sum: d7552069811293ba3463028fea27c11e
 NeedsCompilation: no
 
 Package: jRsql
