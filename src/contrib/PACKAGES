@@ -43,9 +43,9 @@ Package: jrAdvanced
 Version: 0.1.1
 Depends: R (>= 3.1)
 Imports: pryr
-Suggests: knitr, fortunes, tufte, rmarkdown, testthat, lintr
+Suggests: fortunes, knitr, lintr, rmarkdown, testthat, tufte
 License: GPL-3 | GPL-2
-MD5sum: c315b2030328677a7107b15e05b8ef29
+MD5sum: 9388c22a1320121bef591cba896ed955
 NeedsCompilation: no
 
 Package: jrAdvGgplot2
