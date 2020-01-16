@@ -269,12 +269,12 @@ MD5sum: 1c67cbc3a3a15a5a66110fc8e88a8a69
 NeedsCompilation: no
 
 Package: jrProgBio
-Version: 0.0.2
-Depends: R (>= 3.2.0)
-Imports: ggplot2movies, dplyr
-Suggests: knitr, tufte, rmarkdown, formatR, testthat, lintr
+Version: 0.0.3
+Depends: R (>= 3.5.0)
+Suggests: dplyr, formatR, ggplot2, ggplot2movies, jrProgramming, knitr,
+        lintr, rmarkdown, stringi, stringr, testthat, tufte
 License: GPL-3
-MD5sum: be14a22379361dbc73460079df66af17
+MD5sum: 5f2a6d9abdf6393a76d4dca939620787
 NeedsCompilation: no
 
 Package: jrProgramming
