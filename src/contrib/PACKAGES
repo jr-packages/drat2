@@ -304,7 +304,7 @@ MD5sum: 2d30bf10a85537398b810012c80e8443
 NeedsCompilation: no
 
 Package: jrShiny
-Version: 1.1.8
+Version: 1.2.8
 Depends: R (>= 3.5)
 Imports: DT, ggplot2, ggplot2movies, knitr, plotly, rmarkdown, shiny,
         shinydashboard, utils
@@ -312,7 +312,7 @@ Suggests: d3heatmap, drat, dygraphs, edgebundleR, flexdashboard,
         formattable, ggiraph, gridSVG, htmlwidgets, lintr, MASS,
         networkD3, rsconnect, sparkline, svglite, svgPanZoom, testthat
 License: CC0
-MD5sum: ca11e03fa61f43dec99bb6562e95a125
+MD5sum: f9fcda23e5b177adec29f157d4883567
 NeedsCompilation: no
 
 Package: jrSlides
