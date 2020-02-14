@@ -256,16 +256,16 @@ MD5sum: f0c119543c0685af1163966dea602255
 NeedsCompilation: no
 
 Package: jrPredictive
-Version: 1.1.10
+Version: 1.1.11
 Depends: R (>= 3.5.0)
 Imports: AppliedPredictiveModeling, caret, e1071, elasticnet, gam, gbm,
         ggplot2, gridExtra, ipred, ISLR, jrData, kernlab, lars,
         mlbench, nlme, partykit, pls, pROC, randomForest, splines,
         threejs
-Suggests: colorspace, knitr, lintr, MASS, rmarkdown, shiny, testthat,
-        tufte
+Suggests: colorspace, kableExtra, knitr, lintr, MASS, rmarkdown, shiny,
+        testthat, tufte
 License: GPL-3 | GPL-2
-MD5sum: 58eb6a467623be91f2c89a3997db7aec
+MD5sum: 8302106e34aafffad5cfd080c02b069d
 NeedsCompilation: no
 
 Package: jrPresentation
