@@ -6,12 +6,12 @@ MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
 Package: efficientTutorial
-Version: 0.1.2
+Version: 0.1.3
 Depends: R (>= 3.3)
-Imports: Rcpp, profvis, microbenchmark
+Imports: microbenchmark, profvis, Rcpp
 Suggests: knitr, readr, rmarkdown
 License: GPL-2
-MD5sum: eafd66a1fb9f2b20a096edf3137f6faa
+MD5sum: 5e73fb1fd5676ea1477a39882e88bc49
 NeedsCompilation: no
 
 Package: gaugeR
