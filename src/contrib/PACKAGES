@@ -306,11 +306,11 @@ MD5sum: c2db8ebc7044950d41352ba3f08db870
 NeedsCompilation: no
 
 Package: jrRstan
-Version: 0.1.3
+Version: 0.1.4
 Imports: graphics, grDevices, plyr, rstan, shinystan, stats
 Suggests: lintr, R.rsp, RcppEigen, Rdpack
 License: GPL-3 | GPL-2
-MD5sum: 2d30bf10a85537398b810012c80e8443
+MD5sum: 1ea3fc6dc69b6ffcc7236837cf14c187
 NeedsCompilation: no
 
 Package: jrShiny
