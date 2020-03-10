@@ -289,12 +289,12 @@ MD5sum: 5fb5a9165c05b28f86f4aec5363ad528
 NeedsCompilation: no
 
 Package: jrProgramming
-Version: 0.2.4
+Version: 0.2.6
 Depends: R (>= 3.2.0)
 Imports: dplyr, ggplot2, ggplot2movies, readr, tibble
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: d6cf43ce764b39a6046921cccd18f00e
+MD5sum: 1daf06c6a6d47aeff98482ed9089ca40
 NeedsCompilation: no
 
 Package: jrRssprogramming
