@@ -161,7 +161,7 @@ Depends: R (>= 3.5.0)
 Imports: dplyr, ggplot2, tidyverse, usethis
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: 39fa08464a8facd491865846117b049b
+MD5sum: 45ea47fdb04afc016cb9e6483fca17b8
 NeedsCompilation: no
 
 Package: jrIntroBio
