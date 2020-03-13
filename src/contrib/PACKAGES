@@ -174,10 +174,11 @@ MD5sum: cbee6d3913e453d107376203021678f7
 NeedsCompilation: no
 
 Package: jrGitForUs
-Version: 0.0.2
+Version: 0.0.3
 Depends: R (>= 3.2.0)
+Suggests: knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: 5af0c1d1fd2d8c1c5b77277d5d2e87fc
+MD5sum: 2833a93d55430c406b017375a20064d0
 NeedsCompilation: no
 
 Package: jrIntroBio
