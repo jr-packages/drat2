@@ -233,7 +233,7 @@ MD5sum: 3a0c9feca61a3491aae678256c5d8a76
 NeedsCompilation: no
 
 Package: jrNotes
-Version: 0.5.5
+Version: 0.5.6
 Depends: R (>= 3.5.0)
 Imports: bookdown, cli, config, crayon, digest, dplyr, fs, gert, glue,
         httr, knitr (>= 1.22), lintr (>= 2.0.0), namer (>= 0.1.4),
@@ -241,7 +241,7 @@ Imports: bookdown, cli, config, crayon, digest, dplyr, fs, gert, glue,
         tibble, tufte (>= 0.5)
 Suggests: drat, formatR, ggplot2, rmarkdown (>= 1.12), testthat
 License: GPL-3
-MD5sum: b69af09848333ce50e6b2914e85a4858
+MD5sum: d69d566a2ec3db0d89f0b084cbbd73d3
 NeedsCompilation: no
 
 Package: jrOOP
