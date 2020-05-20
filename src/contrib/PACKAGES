@@ -26,7 +26,7 @@ Version: 0.0.3
 Imports: dplyr, DT, glue, httr, jsonlite, purrr, RCurl, shiny,
         shinycssloaders, stringr, tibble
 License: GPL-2 | GPL-3
-MD5sum: 7e183841155971804ae5935ee3981cb8
+MD5sum: 587323ea918dbc187065818d55e9b865
 NeedsCompilation: no
 
 Package: headR
