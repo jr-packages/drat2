@@ -181,6 +181,15 @@ License: GPL-3
 MD5sum: cbee6d3913e453d107376203021678f7
 NeedsCompilation: no
 
+Package: jrGitForMe
+Version: 0.0.7
+Depends: R (>= 3.5.0)
+Imports: dplyr, ggplot2, tidyverse, usethis
+Suggests: formatR, knitr, rmarkdown, tufte
+License: GPL-3
+MD5sum: 58ca59acd797f295a5ec2bc854e40076
+NeedsCompilation: no
+
 Package: jrGitForUs
 Version: 0.0.3
 Depends: R (>= 3.2.0)
