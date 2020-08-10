@@ -606,7 +606,7 @@ Imports: broom, GGally, ggplot2movies, ggraph, ggthemes, gutenbergr,
         tidytext, tidyverse, wordcloud
 Suggests: htmlwidgets, knitr, lintr, rmarkdown
 License: GPL-2
-MD5sum: 540f0581e78efd09fc2a63ff45962af3
+MD5sum: b1add46b2da10e439e2aa7dccbe3612c
 NeedsCompilation: no
 
 Package: jrWhyR
