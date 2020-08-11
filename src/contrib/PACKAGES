@@ -435,6 +435,15 @@ License: GPL-3
 MD5sum: 4bc65134b37df7e1c485f31ec6cea8c0
 NeedsCompilation: no
 
+Package: jrProgramming
+Version: 0.2.9
+Depends: R (>= 3.2.0)
+Imports: dplyr, ggplot2, ggplot2movies, readr, tibble
+Suggests: formatR, knitr, rmarkdown, tufte
+License: GPL-3
+MD5sum: 5caa15fe64eef1a73065064d4bd83a6d
+NeedsCompilation: no
+
 Package: jrRmd
 Version: 0.3.1
 Depends: R (>= 3.2.0)
