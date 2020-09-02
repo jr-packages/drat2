@@ -132,6 +132,16 @@ License: GPL-3
 MD5sum: 6c58c1d4317451a08f4c7129d059bfbb
 NeedsCompilation: no
 
+Package: jrEfficient
+Version: 0.1.6
+Depends: R (>= 3.5.0)
+Imports: bench, benchmarkme, pryr, rbenchmark
+Suggests: formatR, fortunes, ggbeeswarm, ggplot2, knitr, lintr, readr,
+        testthat, tidyr, tufte
+License: GPL-3
+MD5sum: 88b151b78a394a864408b908dba1632f
+NeedsCompilation: no
+
 Package: jrGgplot2
 Version: 0.1.18
 Depends: R (>= 3.3.0)
