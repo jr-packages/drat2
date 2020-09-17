@@ -765,6 +765,16 @@ License: GPL-3
 MD5sum: 3d213f2d749719d4409113f29a4f8a90
 NeedsCompilation: no
 
+Package: jrTidymodels
+Version: 0.0.7
+Depends: R (>= 3.5.0)
+Imports: caret, dplyr, e1071, ggplot2, ISLR, kknn, parsnip, recipes,
+        rsample, tibble, tidyr, yardstick
+Suggests: knitr, lintr, rmarkdown, tufte
+License: GPL-3
+MD5sum: 216fec20e799fdd3887b3d4749eafcea
+NeedsCompilation: no
+
 Package: jrTidyverse
 Version: 0.1.10
 Depends: R (>= 3.5.0)
