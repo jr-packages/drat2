@@ -173,6 +173,17 @@ License: GPL-2 | GPL-3
 MD5sum: ca75a2e530376b151ba4331923956a6c
 NeedsCompilation: no
 
+Package: jrGgplot2
+Version: 0.1.19
+Depends: R (>= 3.3.0)
+Imports: dplyr, gapminder, gganimate, ggforce, ggplot2 (>= 3.3.0),
+        ggplot2movies, ggrepel, ggridges, ggthemes, gifski, gridExtra,
+        hexbin, hrbrthemes, patchwork, plotly, png, quantreg, tibble
+Suggests: DT, formatR, knitr, lintr, magick, tufte
+License: GPL-2 | GPL-3
+MD5sum: bf4cb9e321f5cf2b066a61b17857e245
+NeedsCompilation: no
+
 Package: jrGgplot2Bio
 Version: 0.1.6
 Depends: R (>= 3.5.0)
