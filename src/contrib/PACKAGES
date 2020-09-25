@@ -526,6 +526,16 @@ MD5sum: 7d242f4fb9d7aebe5f457728bb0bceb9
 NeedsCompilation: no
 
 Package: jrTidymodels
+Version: 0.0.10
+Depends: R (>= 3.5.0)
+Imports: caret, dplyr, e1071, ggplot2, ISLR, kknn, parsnip, recipes,
+        rsample, tibble, tidyr, yardstick
+Suggests: knitr, lintr, rmarkdown, tufte
+License: GPL-3
+MD5sum: 51b6b103cfd8095fc4da0bf05d5fd9b2
+NeedsCompilation: no
+
+Package: jrTidymodels
 Version: 0.0.9
 Depends: R (>= 3.5.0)
 Imports: caret, dplyr, e1071, ggplot2, ISLR, kknn, parsnip, recipes,
