@@ -395,7 +395,7 @@ Imports: bookdown, cli, config, crayon, digest, dplyr, fs, gert, glue,
         zip
 Suggests: covr, drat, formatR, ggplot2, rmarkdown (>= 2.3), testthat
 License: GPL-3
-MD5sum: f0d1af86f263a76b764aa62ca369e572
+MD5sum: 872946fecc4f0986d43c66a498410010
 NeedsCompilation: no
 
 Package: jrOOP
