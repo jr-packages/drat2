@@ -460,7 +460,7 @@ Imports: bookdown, cli, config, crayon, digest, dplyr, formatR, fs,
         tibble, tidyr, tufte (>= 0.5), zip
 Suggests: covr, drat, testthat
 License: GPL-3
-MD5sum: e6295346f88b197cf93e268627ae667e
+MD5sum: 9e8eb222c858a0d7cd182c6a8bda6ebe
 NeedsCompilation: no
 
 Package: jrOOP
