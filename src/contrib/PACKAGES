@@ -722,6 +722,15 @@ License: GPL-3
 MD5sum: 6e457fc780794f9f52a808cc5691e7bd
 NeedsCompilation: no
 
+Package: jrRSConnect
+Version: 0.0.2
+Depends: R (>= 3.2.0)
+Imports: knitr
+Suggests: formatR, lintr, rmarkdown, testthat, tufte
+License: GPL-3
+MD5sum: 86abe2cec1cb5cb5bb848f2aac31ae51
+NeedsCompilation: no
+
 Package: jrRssprogramming
 Version: 0.0.1
 Depends: R (>= 3.2.0)
