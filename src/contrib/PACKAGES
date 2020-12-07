@@ -1160,6 +1160,16 @@ License: GPL-3
 MD5sum: 4d4332be59131d976005920a2fd92d83
 NeedsCompilation: no
 
+Package: jrWhyR
+Version: 0.2.1
+Depends: R (>= 3.5.0)
+Imports: lubridate, tibble
+Suggests: DT, ggplot2movies, hrbrthemes, kableExtra, knitr, lintr,
+        plotly, plumber, shiny, testthat, tidyverse
+License: GPL-3
+MD5sum: 831cf40c3054ec6f3a8609b7ee08ff70
+NeedsCompilation: no
+
 Package: jrYr
 Version: 0.1.1
 Depends: R (>= 3.1.0)
