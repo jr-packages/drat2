@@ -796,7 +796,7 @@ Version: 0.1.0
 Depends: R (>= 3.5.0)
 Imports: cli, drat, inteRgrate, yaml
 License: GPL-3
-MD5sum: 46aba9d954f995adba7685318ffaeaa1
+MD5sum: 7044a7fbf134a9b1a83ee2f5a56c77c9
 NeedsCompilation: no
 
 Package: jrOOP
