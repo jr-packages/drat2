@@ -791,6 +791,14 @@ License: GPL-3
 MD5sum: 9e8eb222c858a0d7cd182c6a8bda6ebe
 NeedsCompilation: no
 
+Package: jrNotesCI
+Version: 0.1.0
+Depends: R (>= 3.5.0)
+Imports: cli, drat, inteRgrate, yaml
+License: GPL-3
+MD5sum: bdf75c114c1586467184042af2cf433e
+NeedsCompilation: no
+
 Package: jrOOP
 Version: 0.1.0
 Depends: R (>= 3.1)
