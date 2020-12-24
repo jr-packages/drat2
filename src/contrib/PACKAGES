@@ -808,7 +808,7 @@ Version: 0.1.0
 Depends: R (>= 3.5.0)
 Imports: cli, drat, inteRgrate, remotes, yaml
 License: GPL-3
-MD5sum: 4e381f24ea8498a7071a2ee80bcdfb13
+MD5sum: ea1e7e138583678f877505f237066657
 NeedsCompilation: no
 
 Package: jrOOP
@@ -960,7 +960,7 @@ Imports: clisymbols, config, countdown, crayon, digest, fs, glue, knitr
         (>= 0.8.11), stringr, xaringan (>= 0.8)
 Suggests: jrNotes, testthat, yaml
 License: GPL-2 | GPL-3
-MD5sum: c4599cf4cbd798ee9e09666323f7de20
+MD5sum: c4e8e3e5cefabf22b8fda538e5066ce3
 NeedsCompilation: no
 
 Package: jrProgBio
