@@ -791,12 +791,24 @@ License: GPL-3
 MD5sum: 9e8eb222c858a0d7cd182c6a8bda6ebe
 NeedsCompilation: no
 
+Package: jrNotes2
+Version: 0.11.1
+Depends: R (>= 3.5.0)
+Imports: bookdown, cli, digest, dplyr, formatR, fs, gert, glue, httr,
+        knitr (>= 1.29), lintr (>= 2.0.1), magrittr, purrr, qpdf,
+        reticulate (>= 1.11.1), rlang, rmarkdown (>= 2.3), spelling,
+        stringi, stringr, tibble, tidyr, tufte (>= 0.5), yaml, zip
+Suggests: covr, drat, namer (>= 0.1.4), praise, rstudioapi, testthat
+License: GPL-3
+MD5sum: ceebd74fa7e98c76e430293de33030f1
+NeedsCompilation: no
+
 Package: jrNotesCI
 Version: 0.1.0
 Depends: R (>= 3.5.0)
 Imports: cli, drat, inteRgrate, remotes, yaml
 License: GPL-3
-MD5sum: ea1e7e138583678f877505f237066657
+MD5sum: 4e381f24ea8498a7071a2ee80bcdfb13
 NeedsCompilation: no
 
 Package: jrOOP
@@ -948,7 +960,7 @@ Imports: clisymbols, config, countdown, crayon, digest, fs, glue, knitr
         (>= 0.8.11), stringr, xaringan (>= 0.8)
 Suggests: jrNotes, testthat, yaml
 License: GPL-2 | GPL-3
-MD5sum: c4e8e3e5cefabf22b8fda538e5066ce3
+MD5sum: c4599cf4cbd798ee9e09666323f7de20
 NeedsCompilation: no
 
 Package: jrProgBio
