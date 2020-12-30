@@ -369,12 +369,12 @@ NeedsCompilation: no
 
 Package: jrPresentation2
 Version: 0.2.4
-Imports: clisymbols, config, countdown, crayon, digest, fs, glue, knitr
-        (>= 1.20), lintr, reticulate, rmarkdown (>= 1.10), rsconnect
-        (>= 0.8.11), stringr, xaringan (>= 0.8)
-Suggests: jrNotes2, testthat, yaml
+Imports: clisymbols, config, countdown, crayon, digest, fs, glue,
+        jrNotes2, knitr (>= 1.20), lintr, reticulate, rmarkdown (>=
+        1.10), rsconnect (>= 0.8.11), stringr, xaringan (>= 0.8), yaml
+Suggests: testthat,
 License: GPL-2 | GPL-3
-MD5sum: 3ce5ae1021d4d7fd8ca616960a38077c
+MD5sum: 97ba648199e27097d96056a3d14fb047
 NeedsCompilation: no
 
 Package: jrProgBio
