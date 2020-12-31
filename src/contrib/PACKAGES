@@ -304,6 +304,18 @@ MD5sum: 9049dc33d43b220e7c2fb3ff279be930
 NeedsCompilation: no
 
 Package: jrNotes2
+Version: 0.11.1.9005
+Depends: R (>= 3.5.0)
+Imports: bookdown, cli, digest, dplyr, formatR, fs, gert, glue, httr,
+        knitr (>= 1.29), lintr (>= 2.0.1), magrittr, purrr, qpdf,
+        reticulate (>= 1.11.1), rlang, rmarkdown (>= 2.3), spelling,
+        stringi, stringr, tibble, tidyr, tufte (>= 0.5), yaml, zip
+Suggests: covr, drat, namer (>= 0.1.4), praise, rstudioapi, testthat
+License: GPL-3
+MD5sum: 709d18c9b9c9b71315741061f873bd54
+NeedsCompilation: no
+
+Package: jrNotes2
 Version: 0.11.1
 Depends: R (>= 3.5.0)
 Imports: bookdown, cli, digest, dplyr, formatR, fs, gert, glue, httr,
