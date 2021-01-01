@@ -440,7 +440,7 @@ Depends: R (>= 3.2.0)
 Imports: dplyr, ggplot2, ggplot2movies, readr, tibble
 Suggests: formatR, knitr, rmarkdown, tufte
 License: GPL-3
-MD5sum: cb9635605f5fd853ffafcd0ee16ceb73
+MD5sum: bba91448a965d7a369b4916c55883b54
 NeedsCompilation: no
 
 Package: jrRmd
