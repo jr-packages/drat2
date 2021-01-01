@@ -150,7 +150,7 @@ Imports: dplyr, gapminder, gganimate, ggforce, ggplot2 (>= 3.3.0),
         hexbin, hrbrthemes, patchwork, plotly, png, quantreg, tibble
 Suggests: DT, formatR, knitr, lintr, magick, tufte
 License: GPL-2 | GPL-3
-MD5sum: bf4cb9e321f5cf2b066a61b17857e245
+MD5sum: e1091f45620d0f3d18b173ce55ef2aed
 NeedsCompilation: no
 
 Package: jrGgplot2Bio
