@@ -334,7 +334,7 @@ Imports: bookdown, cli, digest, dplyr, formatR, fs, glue, httr, knitr
         stringr, tibble, tidyr, tufte (>= 0.5), yaml, zip
 Suggests: covr, drat, namer (>= 0.1.4), praise, rstudioapi, testthat
 License: GPL-3
-MD5sum: ff4a5a42b6e07c5d19db7f4847b94e92
+MD5sum: a6999381abf3df027a7a882070663f30
 NeedsCompilation: no
 
 Package: jrNotes2
