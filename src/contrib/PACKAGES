@@ -576,7 +576,7 @@ Imports: broom, GGally, ggplot2movies, ggraph, ggthemes, gutenbergr,
         tidytext, tidyverse, wordcloud
 Suggests: htmlwidgets, knitr, lintr, rmarkdown
 License: GPL-2
-MD5sum: 6a85429c6a26c1d05a768646c72a3ea7
+MD5sum: 53ec32fa5ffe32928f1f46931e6f102a
 NeedsCompilation: no
 
 Package: jrTimeSeries
