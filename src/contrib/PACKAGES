@@ -458,7 +458,7 @@ Depends: R (>= 3.2.0)
 Imports: knitr, stringi
 Suggests: bookdown, formatR, lintr, rmarkdown, testthat, tufte
 License: GPL-3
-MD5sum: f21790b133e3bab3a7ec6d4684a62306
+MD5sum: 845bf2ca3683fa64445751263e0e880b
 NeedsCompilation: no
 
 Package: jrRssprogramming
