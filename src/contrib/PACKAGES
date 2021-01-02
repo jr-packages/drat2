@@ -41,10 +41,10 @@ NeedsCompilation: no
 Package: jrAdv
 Version: 0.1.1
 Depends: R (>= 3.1)
-Imports: pryr, hexbin, quantreg,
-Suggests: knitr, fortunes, tufte, rmarkdown
+Imports: hexbin, pryr, quantreg
+Suggests: fortunes, knitr, rmarkdown, tufte
 License: GPL-3 | GPL-2
-MD5sum: 9514ece02e6bdde8c095bcf30bbb335c
+MD5sum: 5d0674e6f44288cb5fb7ec454c0032ed
 NeedsCompilation: no
 
 Package: jrAdvanced
