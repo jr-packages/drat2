@@ -485,7 +485,7 @@ Version: 0.2.1
 Imports: graphics, grDevices, plyr, rstan, shinystan, stats
 Suggests: lintr, R.rsp, RcppEigen, Rdpack, stanhl
 License: GPL-3 | GPL-2
-MD5sum: 0b86c975aa8c260db9ff34a4a4d0161d
+MD5sum: 1b9cd9a07d40834d982b1fc9dc864930
 NeedsCompilation: no
 
 Package: jrShiny
