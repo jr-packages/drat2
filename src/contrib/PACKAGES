@@ -491,7 +491,7 @@ Depends: R (>= 3.5.0)
 Imports: bookdown, dplyr (>= 1.0.0), DT, flexdashboard, gapminder,
         ggplot2, kableExtra, knitr, plotly, rmarkdown
 License: GPL-3
-MD5sum: 6e457fc780794f9f52a808cc5691e7bd
+MD5sum: 9a56d0133741d0eb13abbf997466716f
 NeedsCompilation: no
 
 Package: jrRSConnect
