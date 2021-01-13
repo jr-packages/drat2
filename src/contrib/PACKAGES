@@ -603,6 +603,18 @@ License: CC0
 MD5sum: 08020d180944e357b268638be75022b0
 NeedsCompilation: no
 
+Package: jrShiny
+Version: 1.3.0
+Depends: R (>= 3.5)
+Imports: DT, ggplot2, ggplot2movies, knitr, plotly, rmarkdown, shiny,
+        shinydashboard, utils
+Suggests: drat, dygraphs, edgebundleR, flexdashboard, formattable,
+        ggiraph, gridSVG, htmlwidgets, lintr, MASS, networkD3,
+        rsconnect, sparkline, svglite, svgPanZoom, testthat, tufte
+License: CC0
+MD5sum: 2ffa9d082385c0338129b2991498e095
+NeedsCompilation: no
+
 Package: jrSlides
 Version: 0.0.1.9002
 Imports: clisymbols, config, crayon, digest, fs, glue, lintr, rmarkdown
