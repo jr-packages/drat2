@@ -557,6 +557,16 @@ License: GPL-3
 MD5sum: e0c4b2890f38a48b480583f53929bb1f
 NeedsCompilation: no
 
+Package: jrTimeSeries
+Version: 0.0.2
+Depends: R (>= 3.5.0)
+Imports: fable, feasts, fma, fpp, fpp3, ggplot2, gridExtra, hrbrthemes,
+        patchwork, tsibble, tsibbledata
+Suggests: knitr, lintr, rmarkdown, tufte
+License: GPL-3
+MD5sum: f1cc628edad428b830a23cc1f8686f8d
+NeedsCompilation: no
+
 Package: jrWhyR
 Version: 0.2.1
 Depends: R (>= 3.5.0)
