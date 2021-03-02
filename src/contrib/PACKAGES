@@ -541,6 +541,16 @@ License: GPL-3
 MD5sum: 6e42c35091fec6b10a151f632db5e028
 NeedsCompilation: no
 
+Package: jrSql
+Version: 0.1.5
+Depends: R (>= 3.4.0)
+Imports: DBI, dbplyr, dplyr (>= 0.7.0), ggplot2movies, jrTidyverse,
+        leaflet, nycflights13, odbc, RPostgreSQL
+Suggests: formatR, knitr, rmarkdown, tufte
+License: GPL-3
+MD5sum: ec13d0d7709bdc6f783b4457d76ab2a3
+NeedsCompilation: no
+
 Package: jrTesting
 Version: 0.1.0
 License: GPL-3
