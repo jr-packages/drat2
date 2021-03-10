@@ -500,7 +500,7 @@ Imports: clisymbols, config, countdown, crayon, digest, fs, glue,
         1.10), rsconnect (>= 0.8.11), stringr, xaringan (>= 0.8), yaml
 Suggests: testthat,
 License: GPL-2 | GPL-3
-MD5sum: 3d963251b9294781df887202a3a6950d
+MD5sum: 42c7eec08d52e73ba466de59ae648713
 NeedsCompilation: no
 
 Package: jrProgBio
