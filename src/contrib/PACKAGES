@@ -95,6 +95,14 @@ License: CC0
 MD5sum: 94fec5b7f51f0113e154f93713ec56aa
 NeedsCompilation: no
 
+Package: jrBestPractices
+Version: 0.0.1
+Depends: R (>= 3.5.0)
+Suggests: knitr, lintr, testthat, tufte
+License: GPL-3 | GPL-2
+MD5sum: 726a48cb9b7bd4402831225f5bf0486c
+NeedsCompilation: no
+
 Package: jrBig
 Version: 0.1.4
 Depends: R (>= 3.3)
