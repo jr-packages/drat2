@@ -115,6 +115,18 @@ License: GPL-2
 MD5sum: dafdee9f0e939ff050a3e0973d733caa
 NeedsCompilation: no
 
+Package: jrBig
+Version: 0.1.5
+Depends: R (>= 3.5.0)
+Imports: benchmarkme, dplyr (>= 0.7), ff, ffbase, microbenchmark, pryr,
+        readr, stats
+Suggests: bigvis, data.table, DBI, dbplyr (>= 1.1.0), feather, ggplot2,
+        ggplot2movies, knitr, lintr, lobstr, lubridate, nycflights13,
+        Rcpp, rmarkdown, RSQLite, sparklyr, tabplot
+License: GPL-2
+MD5sum: 9a7eb0b298e7b7e1e287aef7ecec890b
+NeedsCompilation: no
+
 Package: jrData
 Version: 0.1.4
 Depends: R (>= 2.10)
