@@ -705,6 +705,15 @@ License: GPL-3
 MD5sum: 20d0fac9940ba163055d36f3dcedd447
 NeedsCompilation: no
 
+Package: jrR4DS
+Version: 0.0.1
+Depends: R (>= 3.5.0)
+Suggests: formatR, gridExtra, hrbrthemes, knitr, lintr, lubridate,
+        rmarkdown, testthat, tidyr, tufte
+License: GPL-3 | GPL-2
+MD5sum: f514dd1005e62ba32e55cb0084eac4da
+NeedsCompilation: no
+
 Package: jrRmd
 Version: 0.3.6
 Depends: R (>= 3.5.0)
