@@ -868,7 +868,7 @@ Depends: R (>= 3.5.0)
 Imports: cli, drat, fs, inteRgrate, readr, remotes, stringr, tools,
         yaml
 License: GPL-3
-MD5sum: cb2bc74e8c05dda77fd8323d1d2cd31b
+MD5sum: 109d32285ddc2e8f4e33a9b9037e07c6
 NeedsCompilation: no
 
 Package: jrOOP
