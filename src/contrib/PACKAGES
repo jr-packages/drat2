@@ -120,6 +120,17 @@ License: GPL-3 | GPL-2
 MD5sum: 437f53a7675119d20627d3108fbd7e77
 NeedsCompilation: no
 
+Package: jrBestPractices
+Version: 0.0.5
+Depends: R (>= 3.5.0)
+Imports: gapminder, ggplot2, janitor, lintr, lubridate, palmerpenguins,
+        RCurl, readr, reprex, snakecase, stringr, styler, tibble,
+        tidyr, usethis
+Suggests: knitr, testthat, tufte
+License: GPL-3 | GPL-2
+MD5sum: 5cd00565153bd5fea4fbc1fa555e51ac
+NeedsCompilation: no
+
 Package: jrBig
 Version: 0.1.5
 Depends: R (>= 3.5.0)
