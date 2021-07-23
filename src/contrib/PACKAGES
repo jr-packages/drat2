@@ -643,6 +643,15 @@ License: GPL-3
 MD5sum: f55ce41a013c624abededaac2711a06b
 NeedsCompilation: no
 
+Package: jrRmd
+Version: 0.3.7
+Depends: R (>= 3.5.0)
+Imports: bookdown, dplyr (>= 1.0.0), DT, flexdashboard, gapminder,
+        ggplot2, glue, kableExtra, knitr, plotly, rmarkdown
+License: GPL-3
+MD5sum: 90b9e38e9dc14e0382a744fdeb5f93fd
+NeedsCompilation: no
+
 Package: jrRSConnect
 Version: 0.0.4
 Depends: R (>= 3.2.0)
