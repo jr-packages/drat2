@@ -567,6 +567,17 @@ License: GPL-2
 MD5sum: eab8b042b09bcd23bccb128c35bda6d9
 NeedsCompilation: no
 
+Package: jrTidyverse2
+Version: 0.2.0
+Depends: R (>= 3.4.0)
+Imports: broom, GGally, ggplot2movies, ggraph, ggthemes, gutenbergr,
+        hrbrthemes, igraph, magrittr, repurrrsive, stopwords, textdata,
+        tidytext, tidyverse, wordcloud
+Suggests: htmlwidgets, knitr, lintr, rmarkdown
+License: GPL-2
+MD5sum: 9164b63336a8766ba65110808262cc43
+NeedsCompilation: no
+
 Package: jrTimeSeries
 Version: 0.0.2
 Depends: R (>= 3.5.0)
