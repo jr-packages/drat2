@@ -394,7 +394,7 @@ Imports: clisymbols, config, countdown, crayon, digest, fs, glue,
         1.10), rsconnect (>= 0.8.11), stringr, xaringan (>= 0.8), yaml
 Suggests: testthat
 License: GPL-2 | GPL-3
-MD5sum: b6025611083512aec7440018f91d1591
+MD5sum: bc7332516b66d8521a98e82bf68a6a5c
 NeedsCompilation: no
 
 Package: jrProgBio
