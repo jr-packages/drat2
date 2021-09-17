@@ -240,6 +240,17 @@ License: GPL-3
 MD5sum: 337d07a8f515d562bc96e784508caf28
 NeedsCompilation: no
 
+Package: jrIntroduction
+Version: 1.1.1
+Depends: R (>= 3.2.0)
+Imports: dplyr (>= 0.7.0), ggplot2, ggplot2movies, gtrendsR, haven,
+        readr, readxl, tidyverse
+Suggests: formatR, gridExtra, hrbrthemes, knitr, lintr, lubridate,
+        rmarkdown, testthat, tidyr, tufte
+License: GPL-3
+MD5sum: 85fd7358cc8191b86fc1824e9d3f6e65
+NeedsCompilation: no
+
 Package: jrIntroductionRSS
 Version: 0.1.20
 Depends: R (>= 3.2.0)
